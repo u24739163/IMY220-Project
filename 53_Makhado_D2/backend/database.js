@@ -1,7 +1,6 @@
 const { MongoClient, ObjectId } = require("mongodb");
 
-const connectionString =
-  "mongodb+srv://user21:user21@imy220.6ucgnzf.mongodb.net/?retryWrites=true&w=majority&appName=IMY220";
+const connectionString = ;
 
 const database = "sudoRepoDB";
 
@@ -1010,3 +1009,4 @@ module.exports = {
   ActivityService,
   FileService,
 };
+
